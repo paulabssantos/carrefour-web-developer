@@ -13,6 +13,6 @@ const usuarios = new Map();
 usuarios.set('Paula','Admin');
 usuarios.set('Joao','User');
 usuarios.set('Junior','Admin');
-usuarios.set('Lucas','User');
+usuarios.set('Lucas','Admin');
 
 console.log(getAdmins(usuarios));
